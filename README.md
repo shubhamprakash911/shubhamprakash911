@@ -36,6 +36,6 @@
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=shubhamprakash911&theme=dracula&no-frame=false&no-bg=true&margin-w=4)
 
-### ✍️ Dev Quote of the day
+### ✍️Random Dev Quote
 
 ![](https://www.thecoderpedia.com/wp-content/uploads/2020/06/Coding-Quotes.png?type=horizontal&theme=radical)
