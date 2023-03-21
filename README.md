@@ -12,8 +12,11 @@
 
 
 - 👨‍🎓 I'm a **Full Stack Web Developer**
-- 📬 How to reach me: [shubhamkumaar77@gmail.com](mailto:shubhamkumaar77@gmail.com)
-- 📝 [Resume]()
+- 🌱 I’m currently learning **Nodejs**
+- 📬 How to reach me: [shubhamkumaar77@gmail.com]
+(mailto:shubhamkumaar77@gmail.com)
+- 🌏 Visit to my <a href="https://shubhamprakash911.github.io/">Portfolio</a>
+- 📝 [Resume](https://drive.google.com/file/d/16b2rKUBCcU2RIcbe2KjKlvM4OPHfvf4-/view?usp=share_link)
 
 ---
 
