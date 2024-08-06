@@ -21,6 +21,8 @@
 
 ### 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/shubham-kumar-92928a244/) 
+<img src="https://komarev.com/ghpvc/?username=shubhamprakash911&label=Profile%20views&color=0e75b6&style=flat" alt="shubham" />
+
 
 
 # 💻 Tech Stack & Tools:
